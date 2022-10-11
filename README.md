@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renzo Tari</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
-
+<img src='https://media-exp1.licdn.com/dms/image/D4D16AQHKQ78mklYVWQ/profile-displaybackgroundimage-shrink_350_1400/0/1665521113342?e=1671062400&v=beta&t=iMowpFWmMTitQjSc7-vliKtRVjbi7hkO6FTIzjS-Raw'>
 
 
 <h3 align="left">Connect with me:</h3>
