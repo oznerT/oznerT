@@ -3,8 +3,10 @@
 
 <img src='https://media-exp1.licdn.com/dms/image/D4D16AQHKQ78mklYVWQ/profile-displaybackgroundimage-shrink_350_1400/0/1665521113342?e=1671062400&v=beta&t=iMowpFWmMTitQjSc7-vliKtRVjbi7hkO6FTIzjS-Raw'>
 <p>Tengo 22 años, vivo en Argentina. Vengo estudiando programacion desde 2021. Actualmente soy Full Stack Developer graduado de soyHenry. En ello, además de todo lo que es la programación, aprendí todo lo relacionado a trabajar en equipo siguiendo metodologías ágiles como SCRUM. A lo largo de los meses pude desarrollar ciertas capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resulados positivos. Gracias por su atención. </p>
-
-
+<p>-------------------------------------------------------- </p>
+<p>
+I am 22 years old, I live in Argentina. I have been studying programming since 2021. I am currently a Full Stack Developer graduated from soyHenry. In it, in addition to everything that is programming, I learned everything related to teamwork following agile methodologies such as SCRUM. Over the months I was able to develop certain skills such as great tenacity in problem solving, critical thinking and a need for continuous learning; giving companies positive results. Thanks for your attention.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/renzo-tari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/renzo-tari" height="30" width="40" /></a>
