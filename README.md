@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renzo Tari</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
+
 <img src='https://media-exp1.licdn.com/dms/image/D4D16AQHKQ78mklYVWQ/profile-displaybackgroundimage-shrink_350_1400/0/1665521113342?e=1671062400&v=beta&t=iMowpFWmMTitQjSc7-vliKtRVjbi7hkO6FTIzjS-Raw'>
+<p>Tengo 22 años, vivo en Argentina. Soy Full Stack Developer graduado de soyHenry. En ello aprendí todo lo relacionado a trabajar en equipo siguiendo metodologías ágiles como SCRUM. A lo largo de los meses pude desarrollar ciertas capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resulados positivos. Gracias por su atención. </p>
 
 
 <h3 align="left">Connect with me:</h3>
